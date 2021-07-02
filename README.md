@@ -8,11 +8,9 @@
 
 <p>
   <em>
-    I am a 3rd Year undergraduate from <a href="https://daffodilvarsity.edu.bd//"> <b>Daffodil International University</b>, Dhaka</a>.  
-    A budding <b>Software Developer</b> <img src="https://github.com/Emon526/Emon526/blob/main/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/Emon526/Emon526/blob/main/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/Emon526/Emon526/blob/main/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/Emon526/Emon526/blob/main/Assets/Medal.gif" width="20px">
+    I am a 3rd Year undergraduate from <a href="https://daffodilvarsity.edu.bd//"> <b>Daffodil International University</b>, Dhaka,Bangladesh</a>.  
+    A budding <b>Software Developer</b> <img src="https://github.com/Emon526/Emon526/blob/main/Assets/Developer.gif" width="30px">  who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and her Skill <img src="https://github.com/Emon526/Emon526/blob/main/Assets/Medal.gif" width="20px">
   </em>  
 </p>
 
@@ -38,11 +36,11 @@
 
 
 
-<a href="https://github.com/Emon526">
+<!-- <a href="https://github.com/Emon526">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Emon526&show_icons=true&theme=dark&line_height=27" alt="Asraful Islam's github stats"/>
 </a>
 
-<br>
+<br> -->
 
 <!-- 
 
@@ -55,22 +53,22 @@
  
 <!-- ![Asraful's github stats](https://github-readme-stats.vercel.app/api?username=Emon526&show_icons=true&hide_border=true) -->
 
-<br>
+<!-- <br>
 <a href="https://github.com/Emon526/Emon526">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Emon526&repo=Emon526&theme=dark" />
   <br>
 </a>
 <br>
 <br>
-<br>
+<br> -->
 <br>
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 
 
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/thedudethatcode/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13944080/thedudethatcode) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@shubhamdeepjha) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:thedudethatcode@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [<img src="https://github.com/Emon526/Emon526/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/asraful-islam-emon/) | [<img src="https://github.com/Emon526/Emon526/blob/main/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/emon526) | [<img src="https://github.com/Emon526/Emon526/blob/main/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/asraful_islam_emon/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Emon526) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/14610345/asraful-islam) |  [<img src="https://github.com/Emon526/Emon526/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:emonats526@gmail.com)
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
 
