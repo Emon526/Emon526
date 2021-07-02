@@ -1,58 +1,71 @@
-# Asraful Islam  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Asraful Islam  <img src="https://github.com/Emon526/Emon526/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
 
 
 
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+<img align="right" alt="PC GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/Developer.gif" width="190" />
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/Emon526/Emon526/blob/main/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/Emon526/Emon526/blob/main/Assets/Earth.gif" width="24px">
 
 <p>
   <em>
     I am a 3rd Year undergraduate from <a href="https://daffodilvarsity.edu.bd//"> <b>Daffodil International University</b>, Dhaka</a>.  
-    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
+    A budding <b>Software Developer</b> <img src="https://github.com/Emon526/Emon526/blob/main/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/Emon526/Emon526/blob/main/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+    <b>grow</b> <img src="https://github.com/Emon526/Emon526/blob/main/Assets/Rocket.gif" width="18px">and 
+    <b>excel.</b> <img src="https://github.com/Emon526/Emon526/blob/main/Assets/Medal.gif" width="20px">
   </em>  
 </p>
 
 <br>
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-<!-- - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **python 🐍 projects**.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> I’m *looking* for *help* with **wifi connection 🌐**
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> *Ask me* about **why do I think aliens 👽 exist.**
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴 -->
+- <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
+<!-- - <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
+- <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **python 🐍 projects**.
+- <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/Assets/hmm.gif" width="20vw" /> I’m *looking* for *help* with **wifi connection 🌐**
+- <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/happy.gif" width="20vw" /> *Ask me* about **why do I think aliens 👽 exist.**
+- <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
+- <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴 -->
 
 
 <br>
 
+<table>
+<tbody>
 <a href="https://github.com/Emon526">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emon526&theme=dark&hide_langs_below=1" />
 </a>
+</table>
+
+
 
 <a href="https://github.com/Emon526">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Emon526&show_icons=true&theme=dark&line_height=27" alt="Asraful Islam's github stats"/>
 </a>
 
+<br>
 
-<a href="https://github.com/Emon526/Profile-Customization">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Emon526&repo=Profile-Customization&theme=dark" />
-</a>
-
-<a href="https://github.com/Emon526/Profile-Customization">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Emon526&repo=Profile-Customization=dark" />
-</a>
 <!-- 
+
+
+<a href="https://github.com/Emon526/portpolio">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Emon526&repo=Portpolio&theme=dark" />
+</a>
+
+ <br> -->
+ 
+<!-- ![Asraful's github stats](https://github-readme-stats.vercel.app/api?username=Emon526&show_icons=true&hide_border=true) -->
+
+<br>
+<a href="https://github.com/Emon526/Emon526">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Emon526&repo=Emon526&theme=dark" />
+  <br>
+</a>
+<br>
+<br>
+<br>
 <br>
 
-![Asraful's github stats](https://github-readme-stats.vercel.app/api?username=Emon526e&show_icons=true&hide_border=true) -->
-
-<br>
-
-# Connect with me<img src="https://github.com/TheDudeThatCode/Emon526/blob/master/Assets/Handshake.gif" height="32px">
+# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 
 
@@ -63,7 +76,7 @@
 
 <br>
 
-
+<!-- 
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
@@ -125,7 +138,7 @@
       </td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Emon526)
