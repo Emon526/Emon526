@@ -63,7 +63,7 @@
 <br> -->
 <br>
 
-# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+# Connect with me<img src="https://github.com/Emon526/Emon526/blob/main/Assets/Handshake.gif" height="32px">
 
 
 
