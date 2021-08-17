@@ -17,6 +17,8 @@
 <br>
 
 - <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
+- <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/wave.gif" width="20vw" /> I’m *currently* **learning** 👨‍💻   *flutter* <img alt="flutter icon" src="https://github.com/Emon526/Emon526/blob/main/Assets/flutter.png" width="20vw" />
+- <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **flutter <img alt="flutter icon" src="https://github.com/Emon526/Emon526/blob/main/Assets/flutter.png" width="20vw" /> projects**.
 <!-- - <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
 - <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **python 🐍 projects**.
 - <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/Assets/hmm.gif" width="20vw" /> I’m *looking* for *help* with **wifi connection 🌐**
@@ -67,8 +69,8 @@
 
 
 
-| [<img src="https://github.com/Emon526/Emon526/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/asraful-islam-emon/) | [<img src="https://github.com/Emon526/Emon526/blob/main/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/emon526) | [<img src="https://github.com/Emon526/Emon526/blob/main/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/asraful_islam_emon/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Emon526) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/14610345/asraful-islam) |  [<img src="https://github.com/Emon526/Emon526/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:emonats526@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|:---:|
+| [<img src="https://github.com/Emon526/Emon526/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/asraful-islam-emon/) | [<img src="https://github.com/Emon526/Emon526/blob/main/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/emon526) | [<img src="https://github.com/Emon526/Emon526/blob/main/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/asraful_islam_emon/)| [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/14610345/asraful-islam) |  [<img src="https://github.com/Emon526/Emon526/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:emonats526@gmail.com)
+|:---:|:---:|:---:|:---:|:---:|
 
 
 
