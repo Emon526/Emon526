@@ -9,7 +9,7 @@
 <p>
   <em>
     I am a Final Year undergraduate from <a href="https://daffodilvarsity.edu.bd//"> <b>Daffodil International University</b>, Dhaka,Bangladesh</a>.  
-    A budding <b>Software Developer</b> <img src="https://github.com/Emon526/Emon526/blob/main/Assets/Developer.gif" width="30px">  who is <b>obsessed</b>
+    A budding <b>Flutter Developer</b> <img src="https://github.com/Emon526/Emon526/blob/main/Assets/Developer.gif" width="30px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and her Skill <img src="https://github.com/Emon526/Emon526/blob/main/Assets/Medal.gif" width="20px">
   </em>  
 </p>
