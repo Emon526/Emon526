@@ -1,24 +1,24 @@
-# Asraful Islam  <img src="https://github.com/Emon526/Emon526/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
+# Asraful Islam  <img src="https://github.com/Emon526/Emon526/blob/main/Assets/Mario_Hello_Big.gif" width="30px" height = "30px">
 
 
 
-<img align="right" alt="PC GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/Developer.gif" width="190" />
+<img align="right" alt="PC GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/Developer.gif" width="200" />
 
-### <img src="https://github.com/Emon526/Emon526/blob/main/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/Emon526/Emon526/blob/main/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/Emon526/Emon526/blob/main/Assets/Hi.gif" width="29px" height = "29px" > **Hello world!** &nbsp;<img src="https://github.com/Emon526/Emon526/blob/main/Assets/Earth.gif" width="24px" height = "24px" >
 
 <p>
   <em>
     I am a Final Year undergraduate from <a href="https://daffodilvarsity.edu.bd//"> <b>Daffodil International University</b>, Dhaka,Bangladesh</a>.  
-    A budding <b>Flutter Developer</b> <img src="https://github.com/Emon526/Emon526/blob/main/Assets/Developer.gif" width="30px">  who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and her Skill <img src="https://github.com/Emon526/Emon526/blob/main/Assets/Medal.gif" width="20px">
+    A budding <b>Flutter Developer</b> <img src="https://github.com/Emon526/Emon526/blob/main/Assets/Developer.gif" width="30px" height = "30px" >  who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and her Skill <img src="https://github.com/Emon526/Emon526/blob/main/Assets/Medal.gif" width="20px" height = "20px" >
   </em>  
 </p>
 
 <br>
 
-- <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/wave.gif" width="20vw" /> I’m *currently* **learning** 👨‍💻   *flutter* <img alt="flutter icon" src="https://github.com/Emon526/Emon526/blob/main/Assets/flutter.png" width="20vw" />
-- <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **flutter <img alt="flutter icon" src="https://github.com/Emon526/Emon526/blob/main/Assets/flutter.png" width="20vw" /> projects**.
+- <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/wave.gif" width="20vw" height = "20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
+- <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/wave.gif" width="20vw" height = "20vw" /> I’m *currently* **learning** 👨‍💻   *flutter* <img alt="flutter icon" src="https://github.com/Emon526/Emon526/blob/main/Assets/flutter.png" width="20vw" height = "20vw"  />
+- <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/headbang.gif" width="20vw" height = "20vw" /> I’m *looking to collaborate* on **flutter <img alt="flutter icon" src="https://github.com/Emon526/Emon526/blob/main/Assets/flutter.png" width="20vw" height = "20vw" /> projects**.
 <!-- - <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
 - <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **python 🐍 projects**.
 - <img alt="GIF" src="https://github.com/Emon526/Emon526/blob/main/Assets/Assets/hmm.gif" width="20vw" /> I’m *looking* for *help* with **wifi connection 🌐**
