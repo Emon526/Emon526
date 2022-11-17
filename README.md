@@ -39,7 +39,7 @@
     <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" title="GitHub" width="43" height="43"/>&nbsp;&nbsp;</a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" title="Visual Studio" width="43" height="43"/>&nbsp;&nbsp;</a> 
     <a href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" title="Android Studio" width="43" height="43"/>&nbsp;&nbsp;</a> 
-    <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png" title="Xcode" width="43" height="43"/>&nbsp;&nbsp;</a> 
+    <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://developer.apple.com/design/human-interface-guidelines/foundations/app-icons/images/app-icon-realistic-materials_2x.png" title="Xcode" width="43" height="43"/>&nbsp;&nbsp;</a> 
      
 </p>
 <br>
