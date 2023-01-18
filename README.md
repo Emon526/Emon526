@@ -1,7 +1,6 @@
 # Asraful Islam  <img src="Assets/Mario_Hello_Big.gif" width="30px" height = "30px">
 
 
-
 <img align="right" alt="PC GIF" src="Assets/Developer.gif" width="200" />
 
 ### <img src="Assets/Hi.gif" width="29px" height = "29px" > **Hello world!** &nbsp;<img src="Assets/Earth.gif" width="24px" height = "24px" >
@@ -47,8 +46,11 @@
     <table align="center">
         <tr>
             <td>
-                <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=emon526&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/></a>
+              <!-- Streak Stats-->
+              
+[![GitHub Streak](https://streak-stats.demolab.com/?user=emon526&theme=black-ice&background=0D1117&hide_border=true)](https://git.io/streak-stats)
+                <!-- <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=emon526&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/></a> -->
             </td>
         </tr>
    </table>
@@ -57,11 +59,13 @@
 <table align="center">
     <tr>
         <td>
-            <a  href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Siam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=emon526&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+            <!-- GitHub Stats-->
+            <a  href="https://github.com/anuraghazra/github-readme-stats"><img alt="Asraful Islam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=emon526&show_icons=true&count_private=true&theme=react&bg_color=0D1117&hide_border=true" />
             </a>
         </td>
         <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Siam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emon526&langs_count=8.0&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+            <!-- Most Languages-->
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Asraful Islam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emon526&langs_count=8.0&count_private=true&layout=compact&theme=react&bg_color=0D1117&hide_border=true" />
             </a>
         </td>
     </tr>
@@ -69,46 +73,24 @@
 
 <!-- Contribution Graph -->
 <p align="center">
-<a href="https://github.com/md-siam/github-readme-activity-graph"><img alt="Asraful Islam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=emon526&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/Emon526/github-readme-activity-graph"><img alt="Asraful Islam's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=emon526&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 <br/>
+
+  [![Asraful Islam's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Emon526&theme=react-dark&bg_color=0D1117&hide_border=true)](https://github.com/Emon526/github-readme-activity-graph)
 </p>
-
-
-<!-- Github Stats -->
-
-<!-- <table>
-    <tr>
-        <td>
-         <a href="https://github.com/Emon526">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emon526&theme=dark&hide_langs_below=1" />
-</a>
-        </td>
-        <td>
-          <a href="https://github.com/Emon526">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Emon526&show_icons=true&theme=dark&line_height=27" alt="Asraful Islam's github stats"/>
-        </td>
-    </tr>
-</table> -->
 
 <br>
 
 # Connect with me<img src="Assets/Handshake.gif" height="32px">
-
-
 
 | [<img src="Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/asraful-islam-emon/) | [<img src="Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/emon526) | [<img src="Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/asraful_islam_emon/)| [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/14610345/asraful-islam) |  [<img src="Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:emonats526@gmail.com)
 |:---:|:---:|:---:|:---:|:---:|
 
 <br>
 
-<a href="https://visitor-badge.laobi.icu/badge?page_id=Emon526"><img src="https://visitor-badge.laobi.icu/badge?page_id=Emon526">&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://github.com/md-siam?tab=followers"><img src="https://img.shields.io/github/followers/emon526?label=Followers&style=social" alt="GitHub Badge"></a>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Emon526)
+<a href="https://github.com/emon526?tab=followers"><img src="https://img.shields.io/github/followers/emon526?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
-
-
-
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Emon526) -->
-
 
 <!-- profile visit -->
 <!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Emon526">&nbsp;&nbsp;&nbsp;&nbsp;</a> -->
