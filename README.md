@@ -28,7 +28,6 @@
 <p align="center"> 
     <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png" title="Dart"/> </a>
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter"/> </a> 
-    <a href="https://cpanel.net/" target="_blank"> <img src="https://skytoaster.com/assets/images/cpanel/cplogo.svg" title="Cpanel" width="50" height="50"/>&nbsp;</a>
     <a href="https://nodejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="NodeJS" width="43" height="43"/>&nbsp;&nbsp;</a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySql" width="43" height="43"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" width="43" height="43"/> </a>
@@ -38,7 +37,7 @@
     <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" title="GitHub" width="43" height="43"/>&nbsp;&nbsp;</a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" title="Visual Studio" width="43" height="43"/>&nbsp;&nbsp;</a> 
     <a href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" title="Android Studio" width="43" height="43"/>&nbsp;&nbsp;</a> 
-    <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://developer.apple.com/design/human-interface-guidelines/foundations/app-icons/images/app-icon-realistic-materials_2x.png" title="Xcode" width="43" height="43"/>&nbsp;&nbsp;</a> 
+    <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/5/56/Xcode_14_icon.png" title="Xcode" width="43" height="43"/>&nbsp;&nbsp;</a> 
      
 </p>
 <br>
@@ -60,7 +59,7 @@
     <tr>
         <td>
             <!-- GitHub Stats-->
-            <a  href="https://github.com/anuraghazra/github-readme-stats"><img alt="Asraful Islam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=emon526&show_icons=true&count_private=true&theme=react&bg_color=0D1117&hide_border=true" />
+            <a  href="https://github.com/anuraghazra/github-readme-stats"><img alt="Asraful Islam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=emon526&show_icons=true&count_private=true&theme=react&bg_color=0D1117&hide_border=true&rank_icon=percentile&include_all_commits=false" />
             </a>
         </td>
         <td>
@@ -76,7 +75,7 @@
 <!-- <a href="https://github.com/Emon526/github-readme-activity-graph"><img alt="Asraful Islam's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=emon526&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 <br/>
 
-  [![Asraful Islam's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Emon526&theme=react-dark&bg_color=0D1117&hide_border=true)](https://github.com/Emon526/github-readme-activity-graph)
+  [![Asraful Islam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Emon526&theme=react-dark&bg_color=0D1117&hide_border=true)](https://github.com/Emon526/github-readme-activity-graph)
 </p>
 
 <br>
