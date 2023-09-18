@@ -1,25 +1,26 @@
 # Asraful Islam  <img src="Assets/Mario_Hello_Big.gif" width="30px" height = "30px">
 
 
-<img align="right" alt="PC GIF" src="Assets/Developer.gif" width="200" />
+<img align="right" alt="Developer" src="Assets/Developer.gif" width="30%" />
 
 ### <img src="Assets/Hi.gif" width="29px" height = "29px" > **Hello world!** &nbsp;<img src="Assets/Earth.gif" width="24px" height = "24px" >
 
 <p>
   <em>
-    I am a Final Year undergraduate from <a href="https://daffodilvarsity.edu.bd//"> <b>Daffodil International University</b>, Dhaka,Bangladesh</a>.  
-    A budding <b>Flutter Developer</b> <img src="Assets/Developer.gif" width="30px" height = "30px" >  who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and her Skill <img src="Assets/Medal.gif" width="20px" height = "20px" >
+    I am a recent graduate of <a href="https://daffodilvarsity.edu.bd//"> <b>Daffodil International University</b>, Dhaka, Bangladesh</a>.  
+    A skilled <img alt="flutter icon" src="Assets/flutter.png" width="20vw" height = "20vw"  /> <b>Flutter Developer</b> <img src="Assets/Developer.gif" width="30px" height="30px"> who is <b>passionate</b> about <b>continuous improvement</b> and honing my skills <img src="Assets/Medal.gif" width="20px" height="20px">
   </em>  
 </p>
 
 <br>
 
-- <img alt="GIF" src="Assets/wave.gif" width="20vw" height = "20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="Assets/wave.gif" width="20vw" height = "20vw" /> I’m *currently* **learning** 👨‍💻   *flutter* <img alt="flutter icon" src="Assets/flutter.png" width="20vw" height = "20vw"  />
-- <img alt="GIF" src="Assets/headbang.gif" width="20vw" height = "20vw" /> I’m *looking to collaborate* on **flutter <img alt="flutter icon" src="Assets/flutter.png" width="20vw" height = "20vw" /> projects**.
+- <img alt="wave" src="Assets/wave.gif" width="20px" height="20px" /> I’m *currently* **dedicated** to my **career** 🎓
+- <img alt="wave" src="Assets/wave.gif" width="20px" height="20px" /> I’m *constantly* **learning and growing** 👨‍💻   
+- <img alt="headbang" src="Assets/headbang.gif" width="20px" height="20px" /> I’m *open to collaborate* on **exciting <img alt="flutter icon" src="Assets/flutter.png" width="20vw" height = "20vw"  /> Flutter projects**.
 
 <br>
+
+<img alt="Dino gaeme" src="Assets/dino.gif"/>
 
 ## 🚀 Languages and Tools:
 
@@ -41,20 +42,15 @@
      
 </p>
 <br>
-<p align="center">
     <table align="center">
         <tr>
             <td>
               <!-- Streak Stats-->
               
 [![GitHub Streak](https://streak-stats.demolab.com/?user=emon526&theme=black-ice&background=0D1117&hide_border=true)](https://git.io/streak-stats)
-                <!-- <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=emon526&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/></a> -->
             </td>
         </tr>
    </table>
-</p>
-<br>
 <table align="center">
     <tr>
         <td>
@@ -72,10 +68,8 @@
 
 <!-- Contribution Graph -->
 <p align="center">
-<!-- <a href="https://github.com/Emon526/github-readme-activity-graph"><img alt="Asraful Islam's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=emon526&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-<br/>
 
-  [![Asraful Islam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Emon526&theme=react-dark&bg_color=0D1117&hide_border=true)](https://github.com/Emon526/github-readme-activity-graph)
+  [![Asraful Islam's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Emon526&theme=react-dark&bg_color=0D1117&hide_border=true)](https://github.com/Emon526/github-readme-activity-graph)
 </p>
 
 <br>
@@ -92,7 +86,6 @@
 </p>
 
 <!-- profile visit -->
-<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Emon526">&nbsp;&nbsp;&nbsp;&nbsp;</a> -->
 
-
+<!-- ![](https://komarev.com/ghpvc/?username=Emon526) -->
 
